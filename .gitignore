@@ -27,7 +27,6 @@ pnpm-debug.log*
 *.sw?
 
 package-lock.json
-pnpm-lock.yaml
 
 # 忽略.vitepress文件夹下不需要的文件
 docs/.vitepress/dist/
