@@ -36,6 +36,7 @@ jobs:
         with:
           node-version: 20
           cache: pnpm # 或 npm / yarn
+          cache-dependency-path: '**/pnpm-lock.yaml'
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
