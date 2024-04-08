@@ -1,7 +1,7 @@
 export default {
-  title: '码路芽子', // 博客的标题
-  description: 'mlyz 的个人博客', // 博客的介绍
-  base: '/blog/', // 如果想用 https://mlyz.wdy.github.io/blog/ 访问，那么这句话必填
+  title: '米楼', // 博客的标题
+  description: 'mellow的个人博客', // 博客的介绍
+  base: '/blog/', // 如果想用 https://zetanvi.github.io/blog/ 访问，那么这句话必填
   themeConfig: {
     logo: '/images/logo.png', // 页面上显示的logo
     nav: [
